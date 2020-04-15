@@ -1,5 +1,5 @@
-import numpy as np 
-from util import *
+import numpy as np
+from util import Game,Player
 
 
 def start_game(g):
